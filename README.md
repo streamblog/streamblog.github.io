@@ -9,3 +9,5 @@ Check out the live demo [here](https://streamblog.github.io/)!
 - TMDB API
 
 Happy Streaming! 🍿🎬
+
+*Author by [mmirzafahlefi](https://instagram.com/mmirzafahlefi)!
